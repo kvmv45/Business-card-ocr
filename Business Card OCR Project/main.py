@@ -1,3 +1,4 @@
+# Required Libraries/Modules
 import easyocr # type: ignore
 import cv2 # type: ignore
 import numpy as np # type: ignore
